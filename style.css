@@ -19,3 +19,16 @@ h3 {
 p {
   font-size: 120%;
 }
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover,
+a:visited {
+  color: yellowgreen;
+  background-color: grey;
+  text-decoration: underline;
+}
