@@ -1,5 +1,8 @@
 body {
   background-color: black;
+  background-image: url("./img/leaves.jpg");
+  /*background-repeat: : no-repeat;*/
+  background-size: cover;
   color: whitesmoke;
   font-family: "Courier New", Courier, monospace;
   font-size: 140%;
